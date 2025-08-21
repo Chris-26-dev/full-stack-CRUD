@@ -57,6 +57,9 @@ const playfairDisplay = Playfair({
 export const metadata: Metadata = {
   title: "Full-Stack CRUD User Management App",
   description: "Full Stack User Manager User App With React, Typescript, and Next Js", // Placeholder for description
+  icons: {
+    icon: "/logo-crud.svg",
+  }
 };
 
 export default function RootLayout({
@@ -75,8 +78,8 @@ export default function RootLayout({
       >
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
-          enableSystem
+          defaultTheme="light"
+          enableSystem={false}
           disableTransitionOnChange
         >
           <ConvexProviderClient>
