@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707251457061,
+      "tag": "0000_round_zaladane",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1707343612201,
+      "tag": "0001_big_puma",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1742824277018,
+      "tag": "0002_sparkling_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1755692254759,
+      "tag": "0003_sweet_weapon_omega",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1755699782473,
+      "tag": "0004_free_jubilee",
+      "breakpoints": true
+    }
+  ]
+}
