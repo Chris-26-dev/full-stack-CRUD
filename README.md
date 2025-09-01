@@ -1,4 +1,4 @@
-# Full Stack User Manager
+# Full Stack User Manager - CRUD
 
 A simple full stack CRUD (Create, Read, Update, Delete) application for managing users.  
 Built with **React, TypeScript, Next.js, and Convex** as the database.
@@ -17,3 +17,4 @@ Built with **React, TypeScript, Next.js, and Convex** as the database.
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Convex (serverless database + functions)
 - **UI:** Tailwind CSS, Shadcn UI, Lucide Icons
+
